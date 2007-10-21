@@ -28,3 +28,14 @@ There are some recommened but purely optional requirements:
   * .rtf file input
   * .lit file input
 
+
+= Basic Usage =
+
+{{{
+   html2fb.py -i input.html 
+}}}
+
+This will read in input.html and automatically create a .zip file containing the .fb2 ebook.
+
+
+See --help (or GUI) for more information and options.
